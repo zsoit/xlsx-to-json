@@ -28,15 +28,14 @@ function display_sheets(y) {
     data.shift();
 
     console.log("[ ");
-    for (var idx = 0; idx <= data.length - 1; idx++) {
+    for (var i = 0; i <= data.length - 1; i++) {
         var result = Object.keys(data).map((key) => [Number(key), data[key]]);
-        result = JSON.stringify(result[idx][1]);
-        (idx == data.length - 1) ? console.log(result): console.log(result + ", ");
+        result = JSON.stringify(result[i][1]);
+        (i == data.length - 1) ? console.log(result): console.log(result + ", ");
 
     }
     console.log("] ");
 }
-
 
 function consoleJSON() {
     console.log('{ ');
