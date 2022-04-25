@@ -9,6 +9,9 @@ https://www.npmjs.com/package/xlsx
 
 ## Install
 ```
+git clone https://github.com/zsoit/xlsx-to-json
+```
+```
 npm i xlsx
 ```
 
@@ -24,5 +27,5 @@ For Linux/macOS
 npm run start-unix
  ```
 
-- In convert.js and package.json we need set a file name for excel/JSON.
+- In convert.js and package.json we need set a file name for EXCEL/JSON.
 - After running scirpt JSON will be save to api/demo.json.
