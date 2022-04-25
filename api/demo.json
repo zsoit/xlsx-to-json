@@ -1,0 +1,63 @@
+{ 
+"slowka-numer-1": 
+
+[ 
+{"ID":1,"DE":"anhaben","PL":"Sukienka leży świetnie","skojarzenie":"Skojrzenie 'super \"baba\"'"}, 
+{"ID":2,"DE":"anprobieren","PL":"przymierzać"}, 
+{"ID":3,"DE":"sich anziehen","PL":"ubierać się"}, 
+{"ID":4,"DE":"auffallen","PL":"rzucać się w oczy"}, 
+{"ID":5,"DE":"aufhaben","PL":"mieć na głowie"}, 
+{"ID":6,"DE":"aussehen","PL":"wyglądać"}, 
+{"ID":7,"DE":"sich ausziehen","PL":"rozbierać się"}, 
+{"ID":8,"DE":"sich kleiden","PL":"ubierać się"}, 
+{"ID":9,"DE":"tragen","PL":"nosić"}, 
+{"ID":10,"DE":"umhaben","PL":"mieć na szyi"}, 
+{"ID":11,"DE":"sich umziehen","PL":"przebierać się"}, 
+{"ID":12,"DE":"sich verkleiden","PL":"przebierać się (za kogoś)"}, 
+{"ID":13,"DE":"einen Bart tragen","PL":"nosić brodę"}, 
+{"ID":14,"DE":"blass werden","PL":"zblednąć"}, 
+{"ID":15,"DE":"eine Brille tragen","PL":"nosić okulary"}, 
+{"ID":16,"DE":"Das Kleid sitzt ausgezeichnet","PL":"Sukienka leży świetnie"}, 
+{"ID":17,"DE":"Das steht dir gut/schlecht","PL":"Wyglądasz w tym dobrze/źle"}, 
+{"ID":18,"DE":"eine Glatze haben","PL":"być łysym"}, 
+{"ID":19,"DE":"eine gute Figur haben","PL":"mieć dobrą figurę"}, 
+{"ID":20,"DE":"die Haare offen tragen","PL":"nosić rozpuszczone włosy"}
+] 
+, 
+"slowka-numer-2": 
+
+[ 
+{"ID":1,"DE":"der Becher","PL":"kubek"}, 
+{"ID":2,"DE":"das Besteck","PL":"sztućce"}, 
+{"ID":3,"DE":"der Eimer","PL":"wiadro"}, 
+{"ID":4,"DE":"der Elektroherd","PL":"kuchenka elektryczna"}, 
+{"ID":5,"DE":"die Gabel","PL":"widelec"}, 
+{"ID":6,"DE":"der Gasherd","PL":"kuchenka gazowa"}, 
+{"ID":7,"DE":"das Geshirr","PL":"naczynia"}, 
+{"ID":8,"DE":"der Geshirrspüler","PL":"zmywarka"}, 
+{"ID":9,"DE":"das Glas, die Glaser","PL":"szklanka "}, 
+{"ID":10,"DE":"der Herd","PL":"kuchenka"}, 
+{"ID":11,"DE":"die Kaffeemachine","PL":"ekspress do kway"}, 
+{"ID":12,"DE":"die Küchenmachine","PL":"robot kuchenny"}, 
+{"ID":13,"DE":"der Kühlschrank","PL":"lodówka"}, 
+{"ID":14,"DE":"der Löffel","PL":"łyżka"}, 
+{"ID":15,"DE":"das Messer","PL":"nóż"}, 
+{"ID":16,"DE":"der Mülleimer","PL":"kubeł na śmieci"}, 
+{"ID":17,"DE":"die Pfanne","PL":"patelnia"}, 
+{"ID":18,"DE":"die Spüle","PL":"zlewozmywak"}, 
+{"ID":19,"DE":"das Tablett","PL":"taca"}, 
+{"ID":20,"DE":"die Tasse","PL":"filiżanka"}, 
+{"ID":21,"DE":"der Teller","PL":"talerz"}, 
+{"ID":22,"DE":"der Topf","PL":"garnek"}, 
+{"ID":23,"DE":"der Wasserhahn","PL":"kran"}, 
+{"ID":24,"DE":"ausziehen","PL":"wyprowadzać sie"}
+] 
+, 
+"uczniowie": 
+
+[ 
+{"ID":1,"Imie":"Janek","Nazwisko":"Kowalski"}, 
+{"ID":2,"Imie":"Masny","Nazwisko":"Ben"}
+] 
+  
+} 

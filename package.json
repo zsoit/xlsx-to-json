@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "xlsx": "^0.18.5"
+    },
+    "scripts": {
+        "start-win": "node.exe convert.js > api/demo.json",
+        "start-unix": "node convert.js > api/demo.json",
+        "scp": "scp -P 22 -r * root@example.com:/var/html/site/public_html/"
+    }
+}
