@@ -37,8 +37,27 @@ function display_sheets(y) {
     console.log("] ");
 }
 
+function consoletable() {
+
+    console.log('"tables": \n[\n');
+    for (var i = 0; i <= workbook.SheetNames.length - 1; i++) {
+        var name_sheets = JSON.stringify(workbook.SheetNames[i]);
+        console.log(
+            `{"ID":${i+1},"name":${name_sheets}}`
+
+        );
+        if (i != workbook.SheetNames.length - 1) {
+            console.log(", ");
+
+        }
+    }
+    console.log("\n],\n");
+
+}
+
 function consoleJSON() {
     console.log('{ ');
+    consoletable();
     sheet_name_list.forEach(function(y, idx, array) {
         console.log(`"${y}": \n`);
         display_sheets(y);
